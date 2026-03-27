@@ -55,8 +55,7 @@ INSTALLATION & SET UP INSTRUCTIONS
     sudo apt update
     sudo apt install python3
 6. Check if python is installed correctly
-    python3 --version
-    # Expected output: Python 3.x.x  (will show your current version installed)
+    python3 --version # Expected output: Python 3.x.x  (will show your current version installed)
 7. Install Python extension for Visual Studio https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
 ## Download Project File from my github
